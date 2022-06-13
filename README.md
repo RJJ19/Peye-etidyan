@@ -37,7 +37,7 @@
 - 1 Clavier numerique a bouton  3X4  
 - 
 ## Capteurs
-- une puce RFID  
+- Un capteur RFID   
  
 ## Actionneurs
 - un Ecran d'affichage LCD

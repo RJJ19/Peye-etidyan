@@ -41,10 +41,10 @@
  
 ## Actionneurs
 - un Ecran d'affichage LCD
-- trois LED 
+- Deux LED 
 - UNE LED VERT
 - UNE LED ROUGE 
-- UNE LED JAUNE 
+- un buzzer
 - Un servomoteur
 
 ## Service internet
